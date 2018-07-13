@@ -1,0 +1,39 @@
+﻿[
+    {
+        "id": 1,
+        "first_name": "Victor",
+        "last_name": "Biegel",
+        "born": "about 1839 Brandenberg, Germany",
+        "died": "5 Dec 1900 Passaic, NJ",
+        "married": [2,3]
+    },
+    {
+        "id": 2,
+        "first_name": "Henrietta",
+        "last_name": "Molaski",
+        "born": "about 1846 Prussia",
+        "died": "14 Nov 1883 Passaic, NJ",
+        "married": [1]
+    },
+    {
+        "id": 3,
+        "first_name": "Maria",
+        "last_name": "Schaumloffel",
+        "born": "1/1/1859 Hohenecken, Rhineland, Palatinate, Germany",
+        "married": [1]
+    },
+    {
+        "id": 4,
+        "first_name": "Bertha",
+        "last_name": "Biegel",
+        "born": "6/8/1886",
+        "died": "7/16/1977",
+        "married": [5]
+    },
+    {
+        "id": 5,
+        "first_name": "Gustave",
+        "middle_name": "L",
+        "last_name": "Nelson",
+        "born":
+]
